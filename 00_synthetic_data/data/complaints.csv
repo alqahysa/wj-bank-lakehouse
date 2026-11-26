@@ -1,0 +1,406 @@
+complaint_id,txn_id,customer_id,branch_id,channel,complaint_text,satisfaction_score,complaint_timestamp
+CMP-000001,TXN-20260530-35669102,CUST-101224,BR-DMM-001,MOBILE_APP,A payment of 32.06 SAR was declined for no clear reason. Please fix this quickly. I haven't been able to log in to the mobile app for two days.,1,2026-05-30T20:50:25.296230
+CMP-000002,TXN-20260530-24529845,CUST-101004,BR-DMM-001,MOBILE_APP,"The staff at WJ Corniche Branch were very helpful, thank you.",4,2026-06-01T05:40:45.347496
+CMP-000003,TXN-20260530-90138045,CUST-101007,BR-MKK-001,MOBILE_APP,I'd like to know when my next instalment is due.,3,2026-05-31T01:58:28.957171
+CMP-000004,TXN-20260530-34501311,CUST-101103,BR-RUH-001,CALL_CENTER,رُفضت عملية بمبلغ 3000.0 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-06-02T03:01:16.545380
+CMP-000005,TXN-20260530-51534434,CUST-101810,BR-RUH-001,CALL_CENTER,My mada card failed at Nakheel Hypermarket for the second time this week.,1,2026-06-01T06:44:20.873272
+CMP-000006,TXN-20260530-61891980,CUST-100194,BR-MED-001,MOBILE_APP,تم رفض بطاقتي في Noor Utilities رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-06-03T19:38:52.023131
+CMP-000007,TXN-20260531-55754421,CUST-101569,BR-MKK-001,MOBILE_APP,رُفضت عملية بمبلغ 593.91 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-06-03T12:43:19.555689
+CMP-000008,TXN-20260531-74264935,CUST-101191,BR-JED-001,CALL_CENTER,بطاقة مدى لا تعمل في WJ ATM Jeddah للمرة الثانية هذا الأسبوع.,1,2026-05-31T22:43:59.925976
+CMP-000009,TXN-20260531-26691710,CUST-100034,BR-DMM-001,CALL_CENTER,My card was charged at WJ ATM Dammam for a purchase I never made. I want to raise a dispute.,1,2026-06-04T03:30:42.556626
+CMP-000010,TXN-20260531-11561456,CUST-101316,BR-RUH-001,CALL_CENTER,A payment of 240.43 SAR was declined for no clear reason. Please fix this quickly.,2,2026-06-01T13:47:16.043193
+CMP-000011,TXN-20260601-58501198,CUST-100279,BR-RUH-001,CALL_CENTER,رُفضت عملية بمبلغ 316.15 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-06-05T18:52:22.079296
+CMP-000012,TXN-20260601-92630995,CUST-101201,BR-RUH-001,EMAIL,A payment of 13.77 SAR was declined for no clear reason. Please fix this quickly.,1,2026-06-05T09:53:30.513155
+CMP-000013,TXN-20260601-16177807,CUST-101313,BR-RUH-001,BRANCH,تم رفض بطاقتي في Smart Hub رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-06-03T09:41:22.013758
+CMP-000014,TXN-20260602-61655781,CUST-101050,BR-JED-001,EMAIL,تم رفض بطاقتي في Bayt Al-Khair Market رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-06-04T06:45:52.010660
+CMP-000015,TXN-20260602-70647263,CUST-100847,BR-MED-001,EMAIL,My mada card failed at Noor Utilities for the second time this week.,2,2026-06-04T15:03:11.438341
+CMP-000016,TXN-20260602-55755155,CUST-101724,BR-JED-001,BRANCH,Apple Pay stopped working after the latest app update. I haven't been able to log in to the mobile app for two days.,2,2026-06-06T15:27:44.442456
+CMP-000017,TXN-20260602-87966791,CUST-101835,BR-RUH-001,CALL_CENTER,My card was declined at Najm Electronics even though I had enough balance. Very embarrassing.,2,2026-06-03T04:50:37.546144
+CMP-000018,TXN-20260603-81495879,CUST-101724,BR-JED-001,MOBILE_APP,تم رفض بطاقتي في Umrah Journeys رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-06-07T08:03:38.366356
+CMP-000019,TXN-20260603-46803444,CUST-100558,BR-MKK-001,EMAIL,تم رفض بطاقتي في Bayt Al-Khair Market رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-06-06T17:00:41.741675
+CMP-000020,TXN-20260604-81767639,CUST-100350,BR-RUH-001,MOBILE_APP,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Mandi Palace، أريد فتح اعتراض.,2,2026-06-05T14:20:41.808970
+CMP-000021,TXN-20260605-13216584,CUST-101648,BR-RUH-001,CALL_CENTER,ظهرت عملية بمبلغ 40.0 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-06-09T14:52:56.159775
+CMP-000022,TXN-20260605-73775622,CUST-101776,BR-MED-001,EMAIL,لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-06-10T06:43:36.400190
+CMP-000023,TXN-20260605-24767737,CUST-100958,BR-MKK-001,CALL_CENTER,My card was declined at Smart Hub even though I had enough balance. Very embarrassing. I haven't been able to log in to the mobile app for two days.,1,2026-06-06T02:02:37.953154
+CMP-000024,TXN-20260606-67559791,CUST-101238,BR-MED-001,CALL_CENTER,My card was declined at Mandi Palace even though I had enough balance. Very embarrassing.,1,2026-06-08T00:21:15.741118
+CMP-000025,TXN-20260606-44061514,CUST-101742,BR-RUH-001,CALL_CENTER,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Umrah Journeys، أريد فتح اعتراض.,2,2026-06-07T01:13:49.961453
+CMP-000026,TXN-20260606-90664884,CUST-101352,BR-RUH-001,BRANCH,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,5,2026-06-09T15:38:04.497493
+CMP-000027,TXN-20260606-95752712,CUST-100371,BR-RUH-001,BRANCH,تم رفض بطاقتي في Shawarma Corner رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-06-11T07:05:15.940329
+CMP-000028,TXN-20260607-39527461,CUST-101313,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 1320.9 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-06-10T07:07:18.207671
+CMP-000029,TXN-20260607-34627154,CUST-101660,BR-MKK-001,BRANCH,بطاقة مدى لا تعمل في Al-Afiya Clinic للمرة الثانية هذا الأسبوع.,2,2026-06-10T17:54:11.440179
+CMP-000030,TXN-20260608-54905512,CUST-101973,BR-RUH-001,MOBILE_APP,My card was charged at Sahra Fuel Station for a purchase I never made. I want to raise a dispute.,1,2026-06-10T22:37:31.970320
+CMP-000031,TXN-20260608-58740276,CUST-101003,BR-JED-001,MOBILE_APP,رُفضت عملية بمبلغ 17.29 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-06-10T03:55:50.996990
+CMP-000032,TXN-20260608-34775286,CUST-101800,BR-RUH-001,BRANCH,There is a transaction of 1700.0 SAR on my statement that I don't recognise. Please block the card now.,2,2026-06-11T21:02:32.925579
+CMP-000033,TXN-20260610-87665330,CUST-100528,BR-RUH-001,BRANCH,ظهرت عملية بمبلغ 386.81 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-06-12T18:35:57.794490
+CMP-000034,TXN-20260610-69618483,CUST-100845,BR-MED-001,CALL_CENTER,موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-06-15T06:55:15.208824
+CMP-000035,TXN-20260611-74035082,CUST-100664,BR-JED-001,BRANCH,"A payment of 4900.0 SAR was declined for no clear reason. Please fix this quickly. The app crashes every time I try to confirm a payment, and the OTP never arrives.",2,2026-06-13T06:51:10.131523
+CMP-000036,TXN-20260611-70724072,CUST-101204,BR-MED-001,EMAIL,تم احتساب رسوم سحب نقدي على عملية شراء عادية بمبلغ 1517.9 ريال.,1,2026-06-13T13:18:13.481511
+CMP-000037,TXN-20260612-16486619,CUST-100349,BR-MED-001,CALL_CENTER,رُفضت عملية بمبلغ 517.76 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-06-14T06:38:02.192217
+CMP-000038,TXN-20260614-83183678,CUST-100435,BR-MKK-001,MOBILE_APP,My card was declined at Abaya Lane even though I had enough balance. Very embarrassing.,1,2026-06-19T07:58:32.024105
+CMP-000039,TXN-20260614-96308638,CUST-100635,BR-DMM-001,BRANCH,تم رفض بطاقتي في Dana Fresh رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-06-16T03:24:45.505319
+CMP-000040,TXN-20260615-27139237,CUST-100635,BR-DMM-001,CALL_CENTER,ظهرت عملية بمبلغ 4761.64 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-06-17T17:31:47.432340
+CMP-000041,TXN-20260616-98067193,CUST-100489,BR-RUH-001,MOBILE_APP,ظهرت عملية بمبلغ 17.62 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-06-21T06:16:45.574343
+CMP-000042,TXN-20260618-71193200,CUST-100536,BR-RUH-001,EMAIL,الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,1,2026-06-21T09:10:34.595861
+CMP-000043,TXN-20260618-73750171,CUST-100585,BR-JED-001,BRANCH,My card was charged at Nakheel Hypermarket for a purchase I never made. I want to raise a dispute.,1,2026-06-21T23:43:00.873198
+CMP-000044,TXN-20260618-76845660,CUST-101105,BR-DMM-001,BRANCH,لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-06-22T13:44:40.245083
+CMP-000045,TXN-20260618-98070952,CUST-100554,BR-RUH-001,BRANCH,My mada card failed at Smart Hub for the second time this week.,2,2026-06-19T09:36:36.770604
+CMP-000046,TXN-20260618-17970586,CUST-101500,BR-DMM-001,EMAIL,بطاقة مدى لا تعمل في Thobe Tailors للمرة الثانية هذا الأسبوع.,1,2026-06-23T11:25:57.584078
+CMP-000047,TXN-20260619-26077961,CUST-100603,BR-MKK-001,MOBILE_APP,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-06-21T19:44:50.231846
+CMP-000048,TXN-20260619-97315046,CUST-101494,BR-DMM-001,EMAIL,My mada card failed at Sahra Fuel Station for the second time this week.,1,2026-06-22T09:53:42.353547
+CMP-000049,TXN-20260620-15968688,CUST-100947,BR-MKK-001,EMAIL,ظهرت عملية بمبلغ 5492.95 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,1,2026-06-23T00:59:10.784889
+CMP-000050,TXN-20260620-25235923,CUST-101503,BR-JED-001,CALL_CENTER,My card was declined at Wadi Petrol even though I had enough balance. Very embarrassing.,2,2026-06-22T14:28:13.526868
+CMP-000051,TXN-20260620-33268388,CUST-101024,BR-MED-001,MOBILE_APP,"A payment of 228.74 SAR was declined for no clear reason. Please fix this quickly. The app crashes every time I try to confirm a payment, and the OTP never arrives.",2,2026-06-23T23:53:43.864920
+CMP-000052,TXN-20260621-92682898,CUST-100787,BR-RUH-001,BRANCH,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,5,2026-06-21T03:41:23.813975
+CMP-000053,TXN-20260621-52883586,CUST-100333,BR-DMM-001,EMAIL,My card was declined at Thobe Tailors even though I had enough balance. Very embarrassing. I was charged a cash-withdrawal fee on a normal purchase of 61.33 SAR.,2,2026-06-23T09:53:34.508928
+CMP-000054,TXN-20260621-21954849,CUST-100506,BR-RUH-001,EMAIL,There is a transaction of 618.31 SAR on my statement that I don't recognise. Please block the card now.,1,2026-06-26T11:00:18.848563
+CMP-000055,TXN-20260621-63533107,CUST-100508,BR-MKK-001,BRANCH,تم رفض بطاقتي في WJ ATM Makkah رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-06-23T10:04:02.295542
+CMP-000056,TXN-20260622-12757084,CUST-100050,BR-JED-001,BRANCH,ظهرت عملية بمبلغ 306.12 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-06-23T06:52:27.902780
+CMP-000057,TXN-20260622-25700061,CUST-100942,BR-MKK-001,EMAIL,"The app crashes every time I try to confirm a payment, and the OTP never arrives. The app crashes every time I try to confirm a payment, and the OTP never arrives.",2,2026-06-24T23:21:41.213676
+CMP-000058,TXN-20260623-74744397,CUST-100616,BR-RUH-001,MOBILE_APP,رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,1,2026-06-25T23:25:52.110091
+CMP-000059,TXN-20260623-35087780,CUST-100164,BR-MED-001,BRANCH,رُفضت عملية بمبلغ 461.6 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-06-28T07:59:56.584991
+CMP-000060,TXN-20260624-91173586,CUST-100558,BR-MKK-001,CALL_CENTER,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ. الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,1,2026-06-24T21:41:02.092437
+CMP-000061,TXN-20260625-96890832,CUST-100186,BR-JED-001,BRANCH,تم رفض بطاقتي في Nakheel Hypermarket رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-06-30T00:36:09.599620
+CMP-000062,TXN-20260626-82200026,CUST-100863,BR-JED-001,CALL_CENTER,ظهرت عملية بمبلغ 1395.05 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق.,2,2026-06-30T06:40:58.609522
+CMP-000063,TXN-20260626-61009002,CUST-101176,BR-MKK-001,BRANCH,"Thank you to the customer care team, my issue was solved quickly and professionally.",5,2026-06-27T23:12:32.548537
+CMP-000064,TXN-20260627-88458645,CUST-100573,BR-RUH-001,EMAIL,A payment of 695.99 SAR was declined for no clear reason. Please fix this quickly.,1,2026-07-01T14:32:42.353658
+CMP-000065,TXN-20260627-68034814,CUST-101417,BR-DMM-001,MOBILE_APP,Apple Pay stopped working after the latest app update.,2,2026-06-29T04:28:26.723868
+CMP-000066,TXN-20260627-66975307,CUST-101973,BR-RUH-001,BRANCH,بطاقة مدى لا تعمل في Qahwa House للمرة الثانية هذا الأسبوع.,2,2026-06-28T17:29:37.671556
+CMP-000067,TXN-20260627-49817109,CUST-100368,BR-RUH-001,CALL_CENTER,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل. خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق.,3,2026-07-01T03:31:14.204212
+CMP-000068,TXN-20260627-48378838,CUST-101970,BR-RUH-001,BRANCH,تم رفض بطاقتي في Abaya Lane رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-06-28T09:53:28.637966
+CMP-000069,TXN-20260628-45777938,CUST-100207,BR-MKK-001,MOBILE_APP,A payment of 36.01 SAR was declined for no clear reason. Please fix this quickly. I waited more than an hour at WJ Aziziyah Branch and nobody served me.,1,2026-07-01T09:43:18.971685
+CMP-000070,TXN-20260628-87002797,CUST-100685,BR-RUH-001,EMAIL,The branch staff were unhelpful and didn't answer my questions.,2,2026-07-02T14:25:42.371877
+CMP-000071,TXN-20260629-36418561,CUST-101282,BR-MED-001,CALL_CENTER,"Great experience with the instalment option, it was quick and easy.",5,2026-06-29T15:57:35.213376
+CMP-000072,TXN-20260629-97500686,CUST-100143,BR-RUH-001,CALL_CENTER,My card was declined at WJ ATM Riyadh even though I had enough balance. Very embarrassing.,1,2026-07-01T00:50:26.004064
+CMP-000073,TXN-20260629-87735803,CUST-100310,BR-RUH-001,MOBILE_APP,بطاقة مدى لا تعمل في Qahwa House للمرة الثانية هذا الأسبوع. خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق.,1,2026-07-02T23:48:02.810185
+CMP-000074,TXN-20260629-20483195,CUST-100266,BR-RUH-001,BRANCH,There is a transaction of 160.44 SAR on my statement that I don't recognise. Please block the card now.,1,2026-07-01T18:19:32.215542
+CMP-000075,TXN-20260630-76323802,CUST-100363,BR-DMM-001,CALL_CENTER,"The issue was resolved, but it took longer than expected.",3,2026-07-03T06:33:51.355351
+CMP-000076,TXN-20260630-46597777,CUST-100829,BR-JED-001,EMAIL,My mada card failed at WJ ATM Jeddah for the second time this week.,2,2026-07-04T20:00:30.382066
+CMP-000077,TXN-20260630-40145061,CUST-101079,BR-RUH-001,EMAIL,"Great experience with the instalment option, it was quick and easy.",4,2026-07-01T04:58:28.968126
+CMP-000078,TXN-20260630-84281232,CUST-101420,BR-RUH-001,BRANCH,ظهرت عملية بمبلغ 16.22 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-07-04T00:41:29.740459
+CMP-000079,TXN-20260701-41622343,CUST-101535,BR-MKK-001,BRANCH,انتظرت أكثر من ساعة في WJ Aziziyah Branch ولم يتم خدمتي.,2,2026-07-04T20:50:42.613369
+CMP-000080,TXN-20260701-85273684,CUST-101310,BR-RUH-001,MOBILE_APP,تم احتساب رسوم سحب نقدي على عملية شراء عادية بمبلغ 182.02 ريال.,3,2026-07-04T05:26:11.724959
+CMP-000081,TXN-20260702-69093508,CUST-101368,BR-RUH-001,EMAIL,تجربة ممتازة مع خدمة التقسيط، العملية كانت سهلة وسريعة.,4,2026-07-02T20:45:00.797377
+CMP-000082,TXN-20260703-76627517,CUST-101104,BR-RUH-001,MOBILE_APP,رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,3,2026-07-03T14:31:35.477054
+CMP-000083,TXN-20260703-63012675,CUST-100933,BR-JED-001,EMAIL,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Bayt Al-Khair Market، أريد فتح اعتراض. تم احتساب رسوم سحب نقدي على عملية شراء عادية بمبلغ 143.78 ريال.,2,2026-07-06T20:24:22.556925
+CMP-000084,TXN-20260704-32184563,CUST-101837,BR-MED-001,EMAIL,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Sahra Fuel Station، أريد فتح اعتراض.,2,2026-07-04T15:31:37.327542
+CMP-000085,TXN-20260704-20640510,CUST-101645,BR-RUH-001,MOBILE_APP,تم رفض بطاقتي في Noor Utilities رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-07-08T02:21:36.465107
+CMP-000086,TXN-20260704-17829367,CUST-100631,BR-RUH-001,BRANCH,رُفضت عملية بمبلغ 618.03 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-07-08T10:38:06.848385
+CMP-000087,TXN-20260704-12807101,CUST-100231,BR-DMM-001,EMAIL,A payment of 36.17 SAR was declined for no clear reason. Please fix this quickly.,2,2026-07-07T17:04:50.076595
+CMP-000088,TXN-20260704-12853358,CUST-101851,BR-RUH-001,BRANCH,My mada card failed at Fun Zone for the second time this week. I was charged a cash-withdrawal fee on a normal purchase of 112.16 SAR.,1,2026-07-09T21:46:41.516942
+CMP-000089,TXN-20260705-34522920,CUST-101326,BR-RUH-001,EMAIL,بطاقة مدى لا تعمل في Shifa Pharmacy للمرة الثانية هذا الأسبوع.,1,2026-07-06T02:55:08.066125
+CMP-000090,TXN-20260705-79962152,CUST-101243,BR-MKK-001,BRANCH,There is a transaction of 33.46 SAR on my statement that I don't recognise. Please block the card now.,1,2026-07-08T02:49:33.143682
+CMP-000091,TXN-20260706-76837867,CUST-101807,BR-MED-001,EMAIL,I haven't been able to log in to the mobile app for two days.,2,2026-07-10T06:09:01.552453
+CMP-000092,TXN-20260707-60399853,CUST-101007,BR-MKK-001,EMAIL,تجربة ممتازة مع خدمة التقسيط، العملية كانت سهلة وسريعة.,4,2026-07-08T18:59:51.120400
+CMP-000093,TXN-20260707-71323687,CUST-100734,BR-JED-001,CALL_CENTER,بطاقة مدى لا تعمل في Ittisal Telecom للمرة الثانية هذا الأسبوع.,2,2026-07-12T01:54:05.530387
+CMP-000094,TXN-20260707-35579346,CUST-101783,BR-JED-001,CALL_CENTER,تم رفض بطاقتي في Ittisal Telecom رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-07-08T00:05:58.534282
+CMP-000095,TXN-20260707-57860204,CUST-100860,BR-JED-001,MOBILE_APP,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-07-12T09:51:28.870384
+CMP-000096,TXN-20260708-87267167,CUST-100472,BR-RUH-001,BRANCH,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-07-12T06:22:39.063971
+CMP-000097,TXN-20260709-79621792,CUST-100187,BR-RUH-001,CALL_CENTER,"The app crashes every time I try to confirm a payment, and the OTP never arrives.",1,2026-07-09T22:36:06.291667
+CMP-000098,TXN-20260710-71058711,CUST-100143,BR-RUH-001,CALL_CENTER,ظهرت عملية بمبلغ 54.68 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-07-14T15:16:10.861483
+CMP-000099,TXN-20260710-23711870,CUST-101310,BR-RUH-001,BRANCH,تم رفض بطاقتي في Bayt Al-Khair Market رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-07-14T21:15:12.078166
+CMP-000100,TXN-20260712-86438316,CUST-100498,BR-JED-001,BRANCH,My card was declined at Shawarma Corner even though I had enough balance. Very embarrassing.,1,2026-07-17T11:18:12.872930
+CMP-000101,TXN-20260713-35379184,CUST-101839,BR-JED-001,CALL_CENTER,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-07-16T11:32:26.617926
+CMP-000102,TXN-20260713-93345451,CUST-100987,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 127.59 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-07-17T14:50:28.684693
+CMP-000103,TXN-20260713-13913802,CUST-100967,BR-MED-001,BRANCH,My mada card failed at Wadi Petrol for the second time this week.,1,2026-07-18T01:25:33.472653
+CMP-000104,TXN-20260713-23388587,CUST-100512,BR-JED-001,BRANCH,"The issue was resolved, but it took longer than expected.",3,2026-07-18T01:00:57.014282
+CMP-000105,TXN-20260714-62366733,CUST-100036,BR-JED-001,CALL_CENTER,موظفو WJ Tahlia Branch كانوا متعاونين جداً، شكراً لكم.,4,2026-07-15T02:32:13.945991
+CMP-000106,TXN-20260714-31487711,CUST-100184,BR-MED-001,CALL_CENTER,رُفضت عملية بمبلغ 387.2 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-07-14T23:36:44.715552
+CMP-000107,TXN-20260715-67419381,CUST-100210,BR-DMM-001,MOBILE_APP,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Bayt Al-Khair Market، أريد فتح اعتراض. خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق.,2,2026-07-17T09:49:22.837833
+CMP-000108,TXN-20260715-21897675,CUST-100724,BR-DMM-001,EMAIL,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Najm Electronics، أريد فتح اعتراض.,1,2026-07-19T22:26:52.495956
+CMP-000109,TXN-20260716-95923514,CUST-101103,BR-RUH-001,MOBILE_APP,رُفضت عملية بمبلغ 14.23 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-07-19T07:57:13.254208
+CMP-000110,TXN-20260716-42647166,CUST-100233,BR-JED-001,CALL_CENTER,رُفضت عملية بمبلغ 528.61 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-07-19T01:33:06.748009
+CMP-000111,TXN-20260717-82850333,CUST-101992,BR-MKK-001,EMAIL,My card was charged at Umrah Journeys for a purchase I never made. I want to raise a dispute.,1,2026-07-18T20:02:43.170093
+CMP-000112,TXN-20260718-12766973,CUST-100750,BR-JED-001,MOBILE_APP,My mada card failed at Boulevard Cinemas for the second time this week.,2,2026-07-20T08:05:57.447907
+CMP-000113,TXN-20260719-38976722,CUST-101257,BR-DMM-001,CALL_CENTER,رُفضت عملية بمبلغ 4110.26 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-07-24T07:04:25.292084
+CMP-000114,TXN-20260720-17145024,CUST-100159,BR-JED-001,BRANCH,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Bayt Al-Khair Market، أريد فتح اعتراض.,2,2026-07-23T16:24:21.279544
+CMP-000115,TXN-20260720-49716243,CUST-100860,BR-JED-001,BRANCH,ظهرت عملية بمبلغ 160.19 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-07-24T11:46:39.093453
+CMP-000116,TXN-20260721-81555085,CUST-101759,BR-MKK-001,EMAIL,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,3,2026-07-24T06:12:29.116461
+CMP-000117,TXN-20260722-17775663,CUST-100444,BR-JED-001,BRANCH,ظهرت عملية بمبلغ 465.6 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-07-25T06:38:23.228592
+CMP-000118,TXN-20260722-15826855,CUST-100558,BR-MKK-001,EMAIL,لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,3,2026-07-25T21:01:56.534980
+CMP-000119,TXN-20260723-74663339,CUST-101286,BR-RUH-001,MOBILE_APP,My mada card failed at Najm Electronics for the second time this week.,2,2026-07-26T21:00:22.996113
+CMP-000120,TXN-20260723-21903599,CUST-101105,BR-DMM-001,MOBILE_APP,My card was declined at WJ ATM Dammam even though I had enough balance. Very embarrassing.,2,2026-07-26T03:55:11.950084
+CMP-000121,TXN-20260723-37402756,CUST-101247,BR-RUH-001,BRANCH,My card was declined at Dana Fresh even though I had enough balance. Very embarrassing.,2,2026-07-25T19:53:00.969248
+CMP-000122,TXN-20260726-37596114,CUST-100306,BR-RUH-001,MOBILE_APP,رُفضت عملية بمبلغ 3400.0 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-07-31T17:05:56.073855
+CMP-000123,TXN-20260726-86104960,CUST-100659,BR-MED-001,CALL_CENTER,My card was charged at Dana Fresh for a purchase I never made. I want to raise a dispute.,1,2026-07-28T14:06:53.464743
+CMP-000124,TXN-20260726-77328487,CUST-101170,BR-JED-001,MOBILE_APP,A payment of 67.61 SAR was declined for no clear reason. Please fix this quickly. I was charged a cash-withdrawal fee on a normal purchase of 67.61 SAR.,1,2026-07-28T13:21:37.788843
+CMP-000125,TXN-20260727-11317101,CUST-101205,BR-MKK-001,MOBILE_APP,A payment of 258.7 SAR was declined for no clear reason. Please fix this quickly.,1,2026-07-30T08:21:50.213621
+CMP-000126,TXN-20260727-59779882,CUST-101232,BR-DMM-001,CALL_CENTER,موظفو WJ Corniche Branch كانوا متعاونين جداً، شكراً لكم.,5,2026-07-28T07:58:38.421243
+CMP-000127,TXN-20260727-74437531,CUST-100940,BR-RUH-001,BRANCH,My card was declined at Bayt Al-Khair Market even though I had enough balance. Very embarrassing. I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,2,2026-07-28T12:32:24.273724
+CMP-000128,TXN-20260728-46127473,CUST-100471,BR-RUH-001,BRANCH,ظهرت عملية بمبلغ 200.0 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-08-01T01:50:18.768649
+CMP-000129,TXN-20260728-65130017,CUST-101201,BR-RUH-001,EMAIL,ظهرت عملية بمبلغ 178.28 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-07-30T14:05:07.144105
+CMP-000130,TXN-20260729-26672200,CUST-100384,BR-DMM-001,BRANCH,My mada card failed at Smart Hub for the second time this week.,2,2026-07-31T11:53:33.828084
+CMP-000131,TXN-20260729-34882899,CUST-101007,BR-MKK-001,BRANCH,رُفضت عملية بمبلغ 158.22 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-07-30T12:38:49.341402
+CMP-000132,TXN-20260729-29475050,CUST-100570,BR-JED-001,CALL_CENTER,My card was charged at Abaya Lane for a purchase I never made. I want to raise a dispute.,2,2026-07-29T23:37:39.543461
+CMP-000133,TXN-20260729-21477929,CUST-101045,BR-JED-001,BRANCH,بطاقة مدى لا تعمل في Qahwa House للمرة الثانية هذا الأسبوع.,1,2026-08-01T19:05:34.740922
+CMP-000134,TXN-20260729-81268286,CUST-100910,BR-JED-001,MOBILE_APP,There is a transaction of 65.42 SAR on my statement that I don't recognise. Please block the card now.,1,2026-07-30T23:32:50.496726
+CMP-000135,TXN-20260729-73269838,CUST-101735,BR-JED-001,MOBILE_APP,My mada card failed at Dana Fresh for the second time this week.,1,2026-07-30T03:58:46.495738
+CMP-000136,TXN-20260730-42954590,CUST-100265,BR-RUH-001,MOBILE_APP,تم رفض بطاقتي في Dana Fresh رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-07-31T07:45:38.283865
+CMP-000137,TXN-20260730-60952445,CUST-100237,BR-RUH-001,MOBILE_APP,تم رفض بطاقتي في Shawarma Corner رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-07-31T20:01:16.460227
+CMP-000138,TXN-20260730-59182651,CUST-101160,BR-RUH-001,MOBILE_APP,تم رفض بطاقتي في Boulevard Cinemas رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-08-02T01:31:31.537261
+CMP-000139,TXN-20260731-75106101,CUST-100905,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 12.58 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-08-03T08:27:34.015073
+CMP-000140,TXN-20260801-15388581,CUST-101129,BR-JED-001,MOBILE_APP,My mada card failed at Sahra Fuel Station for the second time this week.,1,2026-08-02T15:33:45.141197
+CMP-000141,TXN-20260802-85965917,CUST-101003,BR-JED-001,BRANCH,There is a transaction of 383.61 SAR on my statement that I don't recognise. Please block the card now.,1,2026-08-04T17:18:19.860515
+CMP-000142,TXN-20260802-45823188,CUST-100310,BR-RUH-001,MOBILE_APP,"The issue was resolved, but it took longer than expected.",3,2026-08-02T23:10:23.077909
+CMP-000143,TXN-20260802-56407772,CUST-100050,BR-JED-001,EMAIL,A payment of 57.89 SAR was declined for no clear reason. Please fix this quickly.,2,2026-08-06T22:00:11.041266
+CMP-000144,TXN-20260803-12581049,CUST-100207,BR-MKK-001,BRANCH,رُفضت عملية بمبلغ 1656.31 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة. تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,1,2026-08-06T04:48:21.929982
+CMP-000145,TXN-20260803-22550428,CUST-101581,BR-RUH-001,MOBILE_APP,A payment of 866.41 SAR was declined for no clear reason. Please fix this quickly.,1,2026-08-04T06:49:41.775385
+CMP-000146,TXN-20260803-86970006,CUST-101778,BR-DMM-001,BRANCH,My mada card failed at Dana Fresh for the second time this week.,2,2026-08-04T09:50:41.164749
+CMP-000147,TXN-20260803-72211460,CUST-100897,BR-DMM-001,MOBILE_APP,My card was declined at Rimal Fashion even though I had enough balance. Very embarrassing.,1,2026-08-08T14:49:41.572285
+CMP-000148,TXN-20260804-63055834,CUST-101444,BR-RUH-001,MOBILE_APP,My card was charged at Al-Afiya Clinic for a purchase I never made. I want to raise a dispute.,1,2026-08-08T16:57:18.633220
+CMP-000149,TXN-20260804-43785068,CUST-101127,BR-RUH-001,CALL_CENTER,بطاقة مدى لا تعمل في Bayt Al-Khair Market للمرة الثانية هذا الأسبوع.,1,2026-08-08T23:43:00.086512
+CMP-000150,TXN-20260804-54573681,CUST-101363,BR-DMM-001,CALL_CENTER,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,5,2026-08-05T10:44:33.332583
+CMP-000151,TXN-20260805-15458337,CUST-101048,BR-DMM-001,MOBILE_APP,I'd like to know when my next instalment is due.,3,2026-08-09T17:36:16.471582
+CMP-000152,TXN-20260805-20221394,CUST-100980,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 15.39 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-08-06T07:20:44.675350
+CMP-000153,TXN-20260805-14355011,CUST-100444,BR-JED-001,MOBILE_APP,I waited more than an hour at WJ Tahlia Branch and nobody served me.,2,2026-08-10T09:09:54.342594
+CMP-000154,TXN-20260806-90967711,CUST-101139,BR-DMM-001,CALL_CENTER,My mada card failed at Smart Hub for the second time this week.,2,2026-08-08T09:34:30.097442
+CMP-000155,TXN-20260807-93269259,CUST-101003,BR-JED-001,BRANCH,"The staff at WJ Tahlia Branch were very helpful, thank you.",4,2026-08-08T07:28:27.541114
+CMP-000156,TXN-20260807-79736938,CUST-100370,BR-DMM-001,EMAIL,موظف الفرع كان غير متعاون ولم يجب على أسئلتي. انتظرت أكثر من ساعة في WJ Corniche Branch ولم يتم خدمتي.,1,2026-08-10T21:34:59.582398
+CMP-000157,TXN-20260808-91961256,CUST-100636,BR-RUH-001,MOBILE_APP,الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,2,2026-08-12T13:33:11.123291
+CMP-000158,TXN-20260808-13303379,CUST-100048,BR-RUH-001,EMAIL,I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,3,2026-08-11T01:53:01.745947
+CMP-000159,TXN-20260809-56344630,CUST-101464,BR-DMM-001,MOBILE_APP,رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,1,2026-08-14T01:33:43.337339
+CMP-000160,TXN-20260810-77557191,CUST-100505,BR-DMM-001,EMAIL,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,2,2026-08-12T00:20:32.796701
+CMP-000161,TXN-20260811-58891355,CUST-100683,BR-JED-001,BRANCH,رُفضت عملية بمبلغ 421.02 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-08-16T01:20:57.810750
+CMP-000162,TXN-20260812-50709082,CUST-100713,BR-JED-001,BRANCH,My mada card failed at Umrah Journeys for the second time this week.,2,2026-08-15T16:23:09.199538
+CMP-000163,TXN-20260812-99747856,CUST-101493,BR-RUH-001,EMAIL,I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,1,2026-08-17T13:22:30.194665
+CMP-000164,TXN-20260812-40385028,CUST-100986,BR-JED-001,MOBILE_APP,A payment of 687.73 SAR was declined for no clear reason. Please fix this quickly. The credit card fees are much higher than what I was told when the card was issued.,2,2026-08-16T07:02:16.900690
+CMP-000165,TXN-20260813-57456925,CUST-100176,BR-JED-001,EMAIL,My mada card failed at Mandi Palace for the second time this week. The ATM at the branch has been out of service for a week.,1,2026-08-14T12:13:18.439951
+CMP-000166,TXN-20260813-24150873,CUST-101860,BR-DMM-001,MOBILE_APP,انتظرت أكثر من ساعة في WJ Corniche Branch ولم يتم خدمتي. رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,2,2026-08-14T01:32:40.963228
+CMP-000167,TXN-20260813-49168433,CUST-101183,BR-JED-001,EMAIL,"Great experience with the instalment option, it was quick and easy.",4,2026-08-13T19:28:14.583185
+CMP-000168,TXN-20260815-21442715,CUST-100037,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 623.83 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-08-20T07:08:13.853937
+CMP-000169,TXN-20260815-82199941,CUST-101269,BR-DMM-001,MOBILE_APP,خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق. انتظرت أكثر من ساعة في WJ Corniche Branch ولم يتم خدمتي.,2,2026-08-18T23:52:58.031451
+CMP-000170,TXN-20260815-18058426,CUST-101917,BR-RUH-001,CALL_CENTER,I haven't been able to log in to the mobile app for two days. The credit card fees are much higher than what I was told when the card was issued.,1,2026-08-18T04:58:14.059631
+CMP-000171,TXN-20260817-94269250,CUST-100615,BR-DMM-001,BRANCH,ظهرت عملية بمبلغ 705.06 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-08-18T15:44:01.048384
+CMP-000172,TXN-20260817-19836039,CUST-101740,BR-JED-001,EMAIL,My mada card failed at Noor Utilities for the second time this week. I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,1,2026-08-18T03:14:15.388310
+CMP-000173,TXN-20260817-82717276,CUST-100606,BR-JED-001,CALL_CENTER,My mada card failed at Bayt Al-Khair Market for the second time this week.,1,2026-08-22T15:23:02.534657
+CMP-000174,TXN-20260819-39159928,CUST-100201,BR-MKK-001,EMAIL,ظهرت عملية بمبلغ 49.63 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-08-23T07:35:57.967920
+CMP-000175,TXN-20260819-25519460,CUST-100047,BR-JED-001,BRANCH,رُفضت عملية بمبلغ 1000.0 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-08-20T21:40:51.343577
+CMP-000176,TXN-20260819-10951496,CUST-100940,BR-RUH-001,CALL_CENTER,A payment of 2900.0 SAR was declined for no clear reason. Please fix this quickly. I haven't been able to log in to the mobile app for two days.,2,2026-08-23T19:27:02.495567
+CMP-000177,TXN-20260820-60095507,CUST-100211,BR-DMM-001,MOBILE_APP,ظهرت عملية بمبلغ 404.37 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-08-22T08:14:59.526253
+CMP-000178,TXN-20260822-70183470,CUST-101267,BR-RUH-001,CALL_CENTER,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,2,2026-08-24T05:50:20.099163
+CMP-000179,TXN-20260822-47582852,CUST-101007,BR-MKK-001,CALL_CENTER,بطاقة مدى لا تعمل في Shawarma Corner للمرة الثانية هذا الأسبوع. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-08-27T03:17:15.607938
+CMP-000180,TXN-20260822-97502130,CUST-101787,BR-MKK-001,CALL_CENTER,A payment of 334.41 SAR was declined for no clear reason. Please fix this quickly.,1,2026-08-23T14:02:45.895202
+CMP-000181,TXN-20260823-89973897,CUST-100966,BR-JED-001,CALL_CENTER,My card was declined at Wadi Petrol even though I had enough balance. Very embarrassing.,2,2026-08-24T15:34:30.378985
+CMP-000182,TXN-20260823-74199001,CUST-101533,BR-RUH-001,EMAIL,تم حل المشكلة لكن استغرق الأمر وقتاً أطول من المتوقع.,3,2026-08-26T23:44:34.463378
+CMP-000183,TXN-20260824-40976894,CUST-100189,BR-JED-001,EMAIL,ظهرت عملية بمبلغ 368.47 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,1,2026-08-24T17:20:33.105519
+CMP-000184,TXN-20260824-37922151,CUST-101045,BR-JED-001,MOBILE_APP,ظهرت عملية بمبلغ 110.02 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,1,2026-08-25T16:21:34.023730
+CMP-000185,TXN-20260825-80267051,CUST-100285,BR-RUH-001,BRANCH,ظهرت عملية بمبلغ 117.0 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-08-28T08:01:41.528852
+CMP-000186,TXN-20260826-52908733,CUST-100262,BR-JED-001,BRANCH,تجربة ممتازة مع خدمة التقسيط، العملية كانت سهلة وسريعة.,4,2026-08-27T00:27:57.311873
+CMP-000187,TXN-20260826-68155204,CUST-100494,BR-MED-001,CALL_CENTER,رُفضت عملية بمبلغ 20.46 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-08-29T17:31:43.869411
+CMP-000188,TXN-20260827-78246615,CUST-101401,BR-DMM-001,MOBILE_APP,تم رفض بطاقتي في Mandi Palace رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-08-28T21:01:11.898171
+CMP-000189,TXN-20260827-54104227,CUST-101336,BR-MKK-001,CALL_CENTER,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-08-28T10:23:38.039077
+CMP-000190,TXN-20260828-55902862,CUST-101046,BR-DMM-001,CALL_CENTER,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Government e-Services، أريد فتح اعتراض.,2,2026-08-29T16:13:19.539057
+CMP-000191,TXN-20260828-90096389,CUST-101260,BR-JED-001,MOBILE_APP,رُفضت عملية بمبلغ 718.24 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-08-30T14:03:16.708009
+CMP-000192,TXN-20260828-45025576,CUST-101540,BR-RUH-001,BRANCH,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,1,2026-09-02T19:20:11.238969
+CMP-000193,TXN-20260829-50483785,CUST-101391,BR-DMM-001,EMAIL,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,5,2026-09-01T04:41:32.827677
+CMP-000194,TXN-20260829-46597717,CUST-101635,BR-DMM-001,EMAIL,The credit card fees are much higher than what I was told when the card was issued.,1,2026-08-30T22:55:41.795600
+CMP-000195,TXN-20260830-30958185,CUST-101428,BR-MKK-001,CALL_CENTER,رُفضت عملية بمبلغ 15.41 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-08-30T23:05:23.535819
+CMP-000196,TXN-20260830-12855688,CUST-100470,BR-JED-001,MOBILE_APP,There is a transaction of 65.0 SAR on my statement that I don't recognise. Please block the card now.,2,2026-09-03T20:30:41.750360
+CMP-000197,TXN-20260831-44517587,CUST-100234,BR-RUH-001,MOBILE_APP,A payment of 623.0 SAR was declined for no clear reason. Please fix this quickly.,1,2026-09-02T19:44:52.726258
+CMP-000198,TXN-20260831-36972277,CUST-101921,BR-MED-001,MOBILE_APP,My card was charged at Mandi Palace for a purchase I never made. I want to raise a dispute.,2,2026-09-05T15:51:57.602954
+CMP-000199,TXN-20260901-55461244,CUST-101286,BR-RUH-001,EMAIL,My card was charged at Thobe Tailors for a purchase I never made. I want to raise a dispute.,2,2026-09-04T13:51:45.560651
+CMP-000200,TXN-20260902-96441104,CUST-101243,BR-MKK-001,EMAIL,My mada card failed at Umrah Journeys for the second time this week.,2,2026-09-06T20:37:16.604072
+CMP-000201,TXN-20260902-91464306,CUST-101003,BR-JED-001,CALL_CENTER,I haven't been able to log in to the mobile app for two days.,2,2026-09-05T11:43:50.287815
+CMP-000202,TXN-20260902-42547004,CUST-101497,BR-RUH-001,BRANCH,بطاقة مدى لا تعمل في Bayt Al-Khair Market للمرة الثانية هذا الأسبوع. رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,1,2026-09-05T18:01:35.208211
+CMP-000203,TXN-20260903-30429574,CUST-101713,BR-DMM-001,MOBILE_APP,تم رفض بطاقتي في Najm Electronics رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-09-03T14:24:17.874542
+CMP-000204,TXN-20260903-19375402,CUST-101103,BR-RUH-001,MOBILE_APP,بطاقة مدى لا تعمل في Smart Hub للمرة الثانية هذا الأسبوع.,2,2026-09-07T02:57:20.178489
+CMP-000205,TXN-20260903-26186377,CUST-101665,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 301.29 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-09-06T15:11:49.075111
+CMP-000206,TXN-20260903-75531838,CUST-100965,BR-RUH-001,CALL_CENTER,A payment of 15.02 SAR was declined for no clear reason. Please fix this quickly.,2,2026-09-05T22:08:18.143635
+CMP-000207,TXN-20260904-79688670,CUST-100642,BR-MED-001,MOBILE_APP,A payment of 60.28 SAR was declined for no clear reason. Please fix this quickly.,1,2026-09-07T01:36:51.141182
+CMP-000208,TXN-20260904-39657074,CUST-101373,BR-RUH-001,MOBILE_APP,There is a transaction of 189.88 SAR on my statement that I don't recognise. Please block the card now. The ATM at the branch has been out of service for a week.,2,2026-09-07T08:38:29.190256
+CMP-000209,TXN-20260904-18731887,CUST-101033,BR-MED-001,MOBILE_APP,الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,2,2026-09-06T18:55:05.402404
+CMP-000210,TXN-20260905-22500769,CUST-101207,BR-RUH-001,CALL_CENTER,بطاقة مدى لا تعمل في Smart Hub للمرة الثانية هذا الأسبوع.,1,2026-09-09T08:14:24.655542
+CMP-000211,TXN-20260905-43780262,CUST-100143,BR-RUH-001,MOBILE_APP,"Thank you to the customer care team, my issue was solved quickly and professionally.",4,2026-09-10T07:19:09.217451
+CMP-000212,TXN-20260905-26262978,CUST-101753,BR-RUH-001,CALL_CENTER,I haven't been able to log in to the mobile app for two days.,1,2026-09-06T00:54:36.534501
+CMP-000213,TXN-20260905-27087265,CUST-100338,BR-DMM-001,BRANCH,Apple Pay stopped working after the latest app update.,3,2026-09-10T21:28:57.872271
+CMP-000214,TXN-20260905-80352285,CUST-100013,BR-JED-001,CALL_CENTER,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Shifa Pharmacy، أريد فتح اعتراض.,2,2026-09-06T14:42:20.060376
+CMP-000215,TXN-20260905-55056491,CUST-101524,BR-RUH-001,EMAIL,My mada card failed at Shifa Pharmacy for the second time this week.,2,2026-09-08T15:28:18.450853
+CMP-000216,TXN-20260906-15530275,CUST-101221,BR-JED-001,MOBILE_APP,I waited more than an hour at WJ Tahlia Branch and nobody served me.,1,2026-09-06T20:11:08.849009
+CMP-000217,TXN-20260906-82638208,CUST-101791,BR-JED-001,BRANCH,تم رفض بطاقتي في Shawarma Corner رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-09-10T15:53:36.208216
+CMP-000218,TXN-20260907-81843342,CUST-101050,BR-JED-001,EMAIL,"The issue was resolved, but it took longer than expected.",3,2026-09-11T17:08:29.320240
+CMP-000219,TXN-20260909-37806614,CUST-101294,BR-MKK-001,BRANCH,My mada card failed at Qahwa House for the second time this week.,2,2026-09-11T04:52:07.707742
+CMP-000220,TXN-20260909-96604688,CUST-100734,BR-JED-001,EMAIL,بطاقة مدى لا تعمل في Sahra Fuel Station للمرة الثانية هذا الأسبوع. انتظرت أكثر من ساعة في WJ Tahlia Branch ولم يتم خدمتي.,2,2026-09-11T12:05:35.202994
+CMP-000221,TXN-20260909-33526287,CUST-101240,BR-RUH-001,EMAIL,ظهرت عملية بمبلغ 79.87 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,1,2026-09-11T18:11:46.371921
+CMP-000222,TXN-20260911-18751266,CUST-100310,BR-RUH-001,MOBILE_APP,I was charged a cash-withdrawal fee on a normal purchase of 98.78 SAR. The branch staff were unhelpful and didn't answer my questions.,1,2026-09-13T00:18:23.153223
+CMP-000223,TXN-20260912-34251106,CUST-100708,BR-JED-001,EMAIL,تم رفض بطاقتي في Ittisal Telecom رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-09-15T04:36:45.630253
+CMP-000224,TXN-20260912-92406131,CUST-101253,BR-RUH-001,MOBILE_APP,خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق.,3,2026-09-17T12:07:58.073389
+CMP-000225,TXN-20260912-56948092,CUST-101030,BR-DMM-001,CALL_CENTER,تم حل المشكلة لكن استغرق الأمر وقتاً أطول من المتوقع.,3,2026-09-14T23:52:57.259293
+CMP-000226,TXN-20260912-81697814,CUST-100905,BR-RUH-001,MOBILE_APP,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,2,2026-09-14T18:08:53.529993
+CMP-000227,TXN-20260912-36670793,CUST-100829,BR-JED-001,EMAIL,My card was charged at Bayt Al-Khair Market for a purchase I never made. I want to raise a dispute.,1,2026-09-14T01:59:30.026604
+CMP-000228,TXN-20260913-26856179,CUST-100228,BR-RUH-001,MOBILE_APP,ظهرت عملية بمبلغ 69.94 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,1,2026-09-14T21:43:57.827268
+CMP-000229,TXN-20260913-36498291,CUST-100715,BR-RUH-001,EMAIL,A payment of 77.87 SAR was declined for no clear reason. Please fix this quickly.,2,2026-09-13T18:09:33.682303
+CMP-000230,TXN-20260914-19850114,CUST-100298,BR-RUH-001,EMAIL,My mada card failed at Smart Hub for the second time this week. Apple Pay stopped working after the latest app update.,1,2026-09-16T22:30:40.660624
+CMP-000231,TXN-20260915-33836902,CUST-101971,BR-DMM-001,CALL_CENTER,A payment of 138.52 SAR was declined for no clear reason. Please fix this quickly.,1,2026-09-16T04:14:48.675530
+CMP-000232,TXN-20260915-89288401,CUST-101583,BR-RUH-001,MOBILE_APP,تم رفض بطاقتي في WJ ATM Riyadh رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-09-19T06:44:58.030780
+CMP-000233,TXN-20260915-24503292,CUST-100719,BR-RUH-001,BRANCH,تم رفض بطاقتي في Shawarma Corner رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-09-18T07:26:13.882879
+CMP-000234,TXN-20260915-42983998,CUST-100160,BR-RUH-001,EMAIL,موظفو WJ Olaya Branch كانوا متعاونين جداً، شكراً لكم.,4,2026-09-16T07:26:09.666371
+CMP-000235,TXN-20260917-97339728,CUST-100832,BR-JED-001,EMAIL,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,2,2026-09-21T11:12:48.943239
+CMP-000236,TXN-20260917-64950025,CUST-100925,BR-DMM-001,BRANCH,My card was declined at Smart Hub even though I had enough balance. Very embarrassing.,1,2026-09-22T07:48:09.526394
+CMP-000237,TXN-20260918-55510816,CUST-100537,BR-RUH-001,MOBILE_APP,"The staff at WJ Olaya Branch were very helpful, thank you.",4,2026-09-22T10:43:21.383620
+CMP-000238,TXN-20260918-57557295,CUST-100650,BR-RUH-001,CALL_CENTER,بطاقة مدى لا تعمل في Sahra Fuel Station للمرة الثانية هذا الأسبوع.,2,2026-09-21T08:32:46.093443
+CMP-000239,TXN-20260918-37440209,CUST-100928,BR-JED-001,CALL_CENTER,I haven't been able to log in to the mobile app for two days.,1,2026-09-22T22:13:19.997131
+CMP-000240,TXN-20260919-14855817,CUST-101694,BR-DMM-001,EMAIL,My mada card failed at Noor Utilities for the second time this week.,1,2026-09-19T14:41:58.763460
+CMP-000241,TXN-20260919-63439616,CUST-100661,BR-JED-001,MOBILE_APP,There is a transaction of 285.18 SAR on my statement that I don't recognise. Please block the card now. I was charged a cash-withdrawal fee on a normal purchase of 285.18 SAR.,1,2026-09-24T07:53:56.570719
+CMP-000242,TXN-20260919-28779731,CUST-100444,BR-JED-001,EMAIL,"My mada card failed at Rimal Fashion for the second time this week. The app crashes every time I try to confirm a payment, and the OTP never arrives.",2,2026-09-20T06:56:23.845811
+CMP-000243,TXN-20260919-55620283,CUST-100213,BR-JED-001,CALL_CENTER,رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,1,2026-09-20T11:00:44.436551
+CMP-000244,TXN-20260921-20619907,CUST-101535,BR-MKK-001,BRANCH,My mada card failed at Sky Wings Travel for the second time this week.,2,2026-09-23T18:19:32.592200
+CMP-000245,TXN-20260922-50579286,CUST-100616,BR-RUH-001,CALL_CENTER,My card was declined at Abaya Lane even though I had enough balance. Very embarrassing.,1,2026-09-24T03:24:47.846942
+CMP-000246,TXN-20260922-21583192,CUST-100143,BR-RUH-001,CALL_CENTER,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Thobe Tailors، أريد فتح اعتراض.,2,2026-09-23T15:12:39.699310
+CMP-000247,TXN-20260922-65839320,CUST-101960,BR-MKK-001,MOBILE_APP,A payment of 10.29 SAR was declined for no clear reason. Please fix this quickly. Apple Pay stopped working after the latest app update.,2,2026-09-25T16:59:18.294082
+CMP-000248,TXN-20260922-34331727,CUST-101157,BR-MKK-001,EMAIL,لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,3,2026-09-23T03:43:46.494830
+CMP-000249,TXN-20260923-29609947,CUST-100461,BR-JED-001,BRANCH,التطبيق يتوقف كل مرة أحاول فيها تأكيد العملية، ورمز التحقق لا يصل.,2,2026-09-25T19:17:10.681386
+CMP-000250,TXN-20260923-70717497,CUST-101572,BR-MKK-001,EMAIL,The branch staff were unhelpful and didn't answer my questions.,1,2026-09-24T07:35:23.656605
+CMP-000251,TXN-20260923-24742666,CUST-101653,BR-RUH-001,BRANCH,بطاقة مدى لا تعمل في Mandi Palace للمرة الثانية هذا الأسبوع.,2,2026-09-25T14:32:17.482394
+CMP-000252,TXN-20260924-47416538,CUST-101016,BR-JED-001,MOBILE_APP,رُفضت عملية بمبلغ 247.49 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-09-28T18:57:27.352622
+CMP-000253,TXN-20260924-62197085,CUST-101996,BR-MKK-001,BRANCH,A payment of 96.09 SAR was declined for no clear reason. Please fix this quickly.,2,2026-09-24T19:38:04.818662
+CMP-000254,TXN-20260924-43637185,CUST-100050,BR-JED-001,BRANCH,تم رفض بطاقتي في Rimal Fashion رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-09-27T16:27:51.139846
+CMP-000255,TXN-20260924-40629256,CUST-101311,BR-JED-001,BRANCH,There is a transaction of 94.16 SAR on my statement that I don't recognise. Please block the card now.,1,2026-09-26T00:43:48.396369
+CMP-000256,TXN-20260924-83431336,CUST-100047,BR-JED-001,BRANCH,بطاقة مدى لا تعمل في Sky Wings Travel للمرة الثانية هذا الأسبوع.,1,2026-09-25T13:49:15.001130
+CMP-000257,TXN-20260925-80530676,CUST-101050,BR-JED-001,BRANCH,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-09-26T20:53:13.406435
+CMP-000258,TXN-20260925-60584385,CUST-101242,BR-JED-001,BRANCH,تم احتساب رسوم سحب نقدي على عملية شراء عادية بمبلغ 51.52 ريال.,1,2026-09-26T05:11:10.795285
+CMP-000259,TXN-20260925-72454801,CUST-100898,BR-MED-001,CALL_CENTER,بطاقة مدى لا تعمل في Thobe Tailors للمرة الثانية هذا الأسبوع.,2,2026-09-26T19:30:52.626530
+CMP-000260,TXN-20260925-80505979,CUST-100737,BR-RUH-001,BRANCH,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-09-27T21:20:12.179739
+CMP-000261,TXN-20260926-20522493,CUST-100019,BR-RUH-001,MOBILE_APP,بطاقة مدى لا تعمل في Ittisal Telecom للمرة الثانية هذا الأسبوع.,1,2026-09-28T03:27:31.141878
+CMP-000262,TXN-20260927-52594062,CUST-101380,BR-RUH-001,EMAIL,لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,1,2026-09-28T22:11:33.761963
+CMP-000263,TXN-20260928-99067159,CUST-101746,BR-RUH-001,BRANCH,"The issue was resolved, but it took longer than expected.",3,2026-10-01T05:27:41.242923
+CMP-000264,TXN-20260928-11200631,CUST-100110,BR-MKK-001,MOBILE_APP,تم رفض بطاقتي في Boulevard Cinemas رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-09-29T02:58:58.577980
+CMP-000265,TXN-20260928-38158196,CUST-101302,BR-JED-001,CALL_CENTER,بطاقة مدى لا تعمل في Qahwa House للمرة الثانية هذا الأسبوع.,2,2026-09-29T17:48:43.450283
+CMP-000266,TXN-20260928-95244722,CUST-101112,BR-DMM-001,EMAIL,تم رفض بطاقتي في Dana Fresh رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-09-30T14:37:00.235402
+CMP-000267,TXN-20260928-83129303,CUST-101703,BR-RUH-001,BRANCH,ظهرت عملية بمبلغ 4000.0 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-09-29T09:40:53.462228
+CMP-000268,TXN-20260929-75120815,CUST-101526,BR-MED-001,MOBILE_APP,موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,2,2026-10-04T11:47:42.433304
+CMP-000269,TXN-20260929-69936911,CUST-100073,BR-JED-001,EMAIL,تم رفض بطاقتي في Ittisal Telecom رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-02T00:27:14.921636
+CMP-000270,TXN-20260929-67141546,CUST-101605,BR-JED-001,CALL_CENTER,"The issue was resolved, but it took longer than expected.",3,2026-10-01T21:59:22.034058
+CMP-000271,TXN-20260929-19663552,CUST-100529,BR-RUH-001,EMAIL,My card was declined at Thobe Tailors even though I had enough balance. Very embarrassing.,2,2026-10-02T20:20:12.419653
+CMP-000272,TXN-20260929-12645967,CUST-101413,BR-RUH-001,EMAIL,I'd like to know when my next instalment is due.,3,2026-10-01T06:27:47.416581
+CMP-000273,TXN-20260930-19356577,CUST-100725,BR-JED-001,EMAIL,My card was declined at Shifa Pharmacy even though I had enough balance. Very embarrassing.,1,2026-09-30T22:40:44.962844
+CMP-000274,TXN-20260930-28798378,CUST-100620,BR-JED-001,MOBILE_APP,Apple Pay stopped working after the latest app update. I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,2,2026-10-04T04:20:51.803103
+CMP-000275,TXN-20261001-61003925,CUST-101210,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 474.07 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-10-01T14:57:12.346485
+CMP-000276,TXN-20261001-62902081,CUST-101009,BR-JED-001,BRANCH,رُفضت عملية بمبلغ 219.24 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-10-05T02:29:50.296073
+CMP-000277,TXN-20261002-59108835,CUST-101209,BR-MED-001,BRANCH,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,1,2026-10-03T00:50:10.096760
+CMP-000278,TXN-20261002-97715002,CUST-100025,BR-JED-001,CALL_CENTER,A payment of 477.31 SAR was declined for no clear reason. Please fix this quickly.,1,2026-10-06T23:14:53.558631
+CMP-000279,TXN-20261002-38623096,CUST-101735,BR-JED-001,BRANCH,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-05T05:15:25.096066
+CMP-000280,TXN-20261003-72929697,CUST-101857,BR-RUH-001,CALL_CENTER,رُفضت عملية بمبلغ 128.18 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-10-03T16:10:51.626943
+CMP-000281,TXN-20261003-22526536,CUST-101078,BR-JED-001,BRANCH,ظهرت عملية بمبلغ 234.63 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-10-04T22:49:04.148545
+CMP-000282,TXN-20261004-77582331,CUST-101647,BR-DMM-001,CALL_CENTER,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Al-Afiya Clinic، أريد فتح اعتراض.,1,2026-10-07T22:43:58.457304
+CMP-000283,TXN-20261004-70050428,CUST-100304,BR-RUH-001,BRANCH,Apple Pay stopped working after the latest app update.,1,2026-10-08T03:47:14.254724
+CMP-000284,TXN-20261004-19894912,CUST-100134,BR-RUH-001,MOBILE_APP,تم رفض بطاقتي في Rimal Fashion رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. انتظرت أكثر من ساعة في WJ Olaya Branch ولم يتم خدمتي.,2,2026-10-06T15:26:00.363338
+CMP-000285,TXN-20261005-68684670,CUST-100252,BR-JED-001,BRANCH,My card was charged at Shawarma Corner for a purchase I never made. I want to raise a dispute.,2,2026-10-09T18:14:27.207775
+CMP-000286,TXN-20261005-74834066,CUST-101836,BR-RUH-001,CALL_CENTER,ظهرت عملية بمبلغ 5000.0 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-10-07T20:06:22.613186
+CMP-000287,TXN-20261005-14651324,CUST-100472,BR-RUH-001,EMAIL,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-09T17:08:44.493364
+CMP-000288,TXN-20261005-24636598,CUST-100213,BR-JED-001,MOBILE_APP,My mada card failed at Government e-Services for the second time this week.,2,2026-10-08T17:11:10.956043
+CMP-000289,TXN-20261005-93858215,CUST-100526,BR-MKK-001,BRANCH,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في WJ ATM Makkah، أريد فتح اعتراض.,1,2026-10-09T04:56:31.896484
+CMP-000290,TXN-20261007-16912409,CUST-100452,BR-MKK-001,BRANCH,بطاقة مدى لا تعمل في Mandi Palace للمرة الثانية هذا الأسبوع.,2,2026-10-09T03:45:52.950735
+CMP-000291,TXN-20261007-82994817,CUST-101003,BR-JED-001,MOBILE_APP,بطاقة مدى لا تعمل في Shawarma Corner للمرة الثانية هذا الأسبوع. انتظرت أكثر من ساعة في WJ Tahlia Branch ولم يتم خدمتي.,2,2026-10-08T08:56:12.291493
+CMP-000292,TXN-20261007-94721645,CUST-101429,BR-JED-001,MOBILE_APP,ظهرت عملية بمبلغ 682.21 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-10-08T06:20:11.729550
+CMP-000293,TXN-20261007-17887596,CUST-101353,BR-DMM-001,EMAIL,My card was declined at Wadi Petrol even though I had enough balance. Very embarrassing.,1,2026-10-09T13:03:13.074795
+CMP-000294,TXN-20261008-90936260,CUST-101724,BR-JED-001,EMAIL,I'd like to know when my next instalment is due.,3,2026-10-12T04:01:53.352566
+CMP-000295,TXN-20261008-71941909,CUST-101569,BR-MKK-001,MOBILE_APP,موظفو WJ Aziziyah Branch كانوا متعاونين جداً، شكراً لكم.,5,2026-10-11T19:31:48.760351
+CMP-000296,TXN-20261008-60428230,CUST-100972,BR-RUH-001,CALL_CENTER,My card was declined at Dana Fresh even though I had enough balance. Very embarrassing.,1,2026-10-12T16:22:36.823283
+CMP-000297,TXN-20261008-16465495,CUST-100587,BR-MKK-001,EMAIL,My card was charged at Sahra Fuel Station for a purchase I never made. I want to raise a dispute. The ATM at the branch has been out of service for a week.,2,2026-10-13T18:02:43.031511
+CMP-000298,TXN-20261008-56111172,CUST-100159,BR-JED-001,CALL_CENTER,تم رفض بطاقتي في WJ ATM Jeddah رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-10-13T03:49:16.529554
+CMP-000299,TXN-20261009-26641911,CUST-100074,BR-DMM-001,BRANCH,My card was declined at Dana Fresh even though I had enough balance. Very embarrassing.,1,2026-10-14T08:13:09.607694
+CMP-000300,TXN-20261009-42818914,CUST-100544,BR-RUH-001,MOBILE_APP,There is a transaction of 60.69 SAR on my statement that I don't recognise. Please block the card now. I waited more than an hour at WJ Olaya Branch and nobody served me.,2,2026-10-12T13:18:53.069401
+CMP-000301,TXN-20261009-52928369,CUST-100607,BR-DMM-001,CALL_CENTER,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,1,2026-10-13T22:19:03.939813
+CMP-000302,TXN-20261010-58947943,CUST-100972,BR-RUH-001,EMAIL,My card was declined at Boulevard Cinemas even though I had enough balance. Very embarrassing.,1,2026-10-10T23:50:41.377209
+CMP-000303,TXN-20261010-33997860,CUST-100575,BR-DMM-001,CALL_CENTER,A payment of 694.42 SAR was declined for no clear reason. Please fix this quickly.,1,2026-10-10T18:01:50.701034
+CMP-000304,TXN-20261010-69972214,CUST-100471,BR-RUH-001,CALL_CENTER,رُفضت عملية بمبلغ 1746.57 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-10-10T22:16:45.906611
+CMP-000305,TXN-20261010-93412793,CUST-101003,BR-JED-001,CALL_CENTER,A payment of 122.02 SAR was declined for no clear reason. Please fix this quickly.,1,2026-10-13T06:28:22.789687
+CMP-000306,TXN-20261012-41410313,CUST-100916,BR-MED-001,MOBILE_APP,A payment of 2300.0 SAR was declined for no clear reason. Please fix this quickly.,1,2026-10-15T09:25:49.154671
+CMP-000307,TXN-20261012-89181003,CUST-100186,BR-JED-001,EMAIL,تم رفض بطاقتي في Dana Fresh رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-10-16T13:33:53.133730
+CMP-000308,TXN-20261012-56480499,CUST-100608,BR-JED-001,MOBILE_APP,My card was declined at WJ ATM Jeddah even though I had enough balance. Very embarrassing.,1,2026-10-16T05:15:14.432110
+CMP-000309,TXN-20261013-98162197,CUST-101058,BR-DMM-001,EMAIL,My mada card failed at Ittisal Telecom for the second time this week.,2,2026-10-17T20:59:39.881845
+CMP-000310,TXN-20261013-17388071,CUST-100160,BR-RUH-001,MOBILE_APP,موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,1,2026-10-15T22:56:46.289974
+CMP-000311,TXN-20261013-46039891,CUST-101661,BR-MKK-001,BRANCH,تم احتساب رسوم سحب نقدي على عملية شراء عادية بمبلغ 65.04 ريال.,1,2026-10-18T10:22:39.244516
+CMP-000312,TXN-20261013-19083236,CUST-100783,BR-MED-001,CALL_CENTER,بطاقة مدى لا تعمل في Dana Fresh للمرة الثانية هذا الأسبوع. الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,2,2026-10-16T07:31:38.432081
+CMP-000313,TXN-20261013-85748860,CUST-101358,BR-RUH-001,EMAIL,تم رفض بطاقتي في Wadi Petrol رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,2,2026-10-18T09:11:08.496072
+CMP-000314,TXN-20261014-58106237,CUST-101735,BR-JED-001,CALL_CENTER,تم رفض بطاقتي في Nakheel Hypermarket رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-15T03:39:59.786932
+CMP-000315,TXN-20261014-93147792,CUST-100073,BR-JED-001,BRANCH,تم رفض بطاقتي في WJ ATM Jeddah رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-15T07:54:20.048740
+CMP-000316,TXN-20261014-26961279,CUST-100444,BR-JED-001,BRANCH,My card was declined at Thobe Tailors even though I had enough balance. Very embarrassing.,2,2026-10-19T05:02:06.390394
+CMP-000317,TXN-20261016-98371101,CUST-100710,BR-JED-001,EMAIL,موظفو WJ Tahlia Branch كانوا متعاونين جداً، شكراً لكم.,4,2026-10-19T21:32:26.619525
+CMP-000318,TXN-20261016-37628529,CUST-100732,BR-MED-001,EMAIL,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,1,2026-10-18T22:53:52.628413
+CMP-000319,TXN-20261016-53385114,CUST-100737,BR-RUH-001,CALL_CENTER,تم رفض بطاقتي في Thobe Tailors رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-17T13:51:01.422167
+CMP-000320,TXN-20261016-93818667,CUST-101263,BR-JED-001,CALL_CENTER,بطاقة مدى لا تعمل في Shifa Pharmacy للمرة الثانية هذا الأسبوع. الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,2,2026-10-21T10:57:27.368451
+CMP-000321,TXN-20261016-83835119,CUST-101322,BR-RUH-001,CALL_CENTER,رُفضت عملية بمبلغ 111.86 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-10-18T19:17:19.638494
+CMP-000322,TXN-20261017-35415767,CUST-100060,BR-RUH-001,MOBILE_APP,بطاقة مدى لا تعمل في Nakheel Hypermarket للمرة الثانية هذا الأسبوع.,1,2026-10-20T11:55:36.506994
+CMP-000323,TXN-20261018-43888144,CUST-100725,BR-JED-001,EMAIL,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-10-19T21:12:41.173445
+CMP-000324,TXN-20261018-18909054,CUST-100329,BR-MKK-001,CALL_CENTER,تم رفض بطاقتي في Sahra Fuel Station رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-10-22T02:34:10.332025
+CMP-000325,TXN-20261019-19776203,CUST-101702,BR-JED-001,EMAIL,رُفضت عملية بمبلغ 42.96 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-10-23T02:39:36.844429
+CMP-000326,TXN-20261019-51434055,CUST-100338,BR-DMM-001,MOBILE_APP,بطاقة مدى لا تعمل في Mandi Palace للمرة الثانية هذا الأسبوع. رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,2,2026-10-19T21:24:17.162979
+CMP-000327,TXN-20261019-66307913,CUST-100342,BR-JED-001,CALL_CENTER,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-10-22T11:28:21.575936
+CMP-000328,TXN-20261020-35161838,CUST-100735,BR-MED-001,EMAIL,رُفضت عملية بمبلغ 200.0 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-10-21T05:47:05.274999
+CMP-000329,TXN-20261020-38420385,CUST-100647,BR-RUH-001,MOBILE_APP,ظهرت عملية بمبلغ 206.65 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,1,2026-10-24T21:49:11.382349
+CMP-000330,TXN-20261021-82552234,CUST-101003,BR-JED-001,EMAIL,My card was charged at Wadi Petrol for a purchase I never made. I want to raise a dispute.,2,2026-10-24T13:35:08.471059
+CMP-000331,TXN-20261021-16269915,CUST-101892,BR-MED-001,BRANCH,My mada card failed at Mandi Palace for the second time this week. The ATM at the branch has been out of service for a week.,2,2026-10-26T22:41:45.802142
+CMP-000332,TXN-20261022-69567325,CUST-101301,BR-MKK-001,BRANCH,"My card was declined at Al-Afiya Clinic even though I had enough balance. Very embarrassing. The app crashes every time I try to confirm a payment, and the OTP never arrives.",1,2026-10-23T15:22:02.486145
+CMP-000333,TXN-20261022-73599479,CUST-101313,BR-RUH-001,MOBILE_APP,My mada card failed at Shifa Pharmacy for the second time this week.,1,2026-10-24T10:01:08.163845
+CMP-000334,TXN-20261023-33587465,CUST-101455,BR-DMM-001,MOBILE_APP,My mada card failed at Shawarma Corner for the second time this week.,2,2026-10-25T04:56:01.895037
+CMP-000335,TXN-20261024-14856412,CUST-101022,BR-RUH-001,EMAIL,رُفضت عملية بمبلغ 491.71 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-10-28T03:08:17.124904
+CMP-000336,TXN-20261024-59488478,CUST-100638,BR-MKK-001,BRANCH,تم رفض بطاقتي في Shawarma Corner رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-10-27T23:22:27.651446
+CMP-000337,TXN-20261024-29514716,CUST-100650,BR-RUH-001,MOBILE_APP,موظفو WJ Olaya Branch كانوا متعاونين جداً، شكراً لكم.,4,2026-10-27T08:07:37.463067
+CMP-000338,TXN-20261024-38593049,CUST-101048,BR-DMM-001,MOBILE_APP,My card was declined at Dana Fresh even though I had enough balance. Very embarrassing. Apple Pay stopped working after the latest app update.,2,2026-10-25T22:37:36.883798
+CMP-000339,TXN-20261024-61389009,CUST-101983,BR-MKK-001,CALL_CENTER,رُفضت عملية بمبلغ 4000.0 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-10-29T16:32:04.678619
+CMP-000340,TXN-20261024-15911873,CUST-101275,BR-DMM-001,EMAIL,تم رفض بطاقتي في WJ ATM Dammam رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-10-29T04:30:07.352745
+CMP-000341,TXN-20261025-25379385,CUST-101681,BR-MKK-001,CALL_CENTER,The ATM at the branch has been out of service for a week.,1,2026-10-30T01:15:32.753542
+CMP-000342,TXN-20261026-71686276,CUST-100417,BR-RUH-001,CALL_CENTER,بطاقة مدى لا تعمل في Boulevard Cinemas للمرة الثانية هذا الأسبوع.,2,2026-10-27T14:50:04.266500
+CMP-000343,TXN-20261026-73652595,CUST-100620,BR-JED-001,MOBILE_APP,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,4,2026-10-29T05:37:13.102508
+CMP-000344,TXN-20261026-31836054,CUST-100607,BR-DMM-001,BRANCH,موظفو WJ Corniche Branch كانوا متعاونين جداً، شكراً لكم.,5,2026-10-27T21:51:25.591112
+CMP-000345,TXN-20261027-17847991,CUST-100362,BR-DMM-001,MOBILE_APP,"The app crashes every time I try to confirm a payment, and the OTP never arrives.",1,2026-11-01T05:48:25.566581
+CMP-000346,TXN-20261028-95911443,CUST-101788,BR-JED-001,CALL_CENTER,My mada card failed at Qahwa House for the second time this week.,1,2026-11-01T19:30:00.488977
+CMP-000347,TXN-20261028-54623016,CUST-101728,BR-DMM-001,BRANCH,My card was declined at Abaya Lane even though I had enough balance. Very embarrassing.,2,2026-10-31T09:22:06.154136
+CMP-000348,TXN-20261028-40215021,CUST-100937,BR-RUH-001,MOBILE_APP,تم حل المشكلة لكن استغرق الأمر وقتاً أطول من المتوقع.,3,2026-10-30T03:40:07.009040
+CMP-000349,TXN-20261028-65397713,CUST-101467,BR-RUH-001,EMAIL,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,4,2026-11-01T05:52:12.723833
+CMP-000350,TXN-20261029-87099136,CUST-100327,BR-JED-001,BRANCH,"The staff at WJ Tahlia Branch were very helpful, thank you.",5,2026-11-01T13:50:51.130853
+CMP-000351,TXN-20261029-48145830,CUST-100850,BR-MED-001,CALL_CENTER,بطاقة مدى لا تعمل في Fun Zone للمرة الثانية هذا الأسبوع.,2,2026-10-29T17:28:46.777962
+CMP-000352,TXN-20261030-97674452,CUST-100143,BR-RUH-001,EMAIL,My card was declined at Shifa Pharmacy even though I had enough balance. Very embarrassing.,2,2026-11-01T11:53:28.808296
+CMP-000353,TXN-20261030-56553391,CUST-100517,BR-RUH-001,EMAIL,"My card was charged at Dana Fresh for a purchase I never made. I want to raise a dispute. The app crashes every time I try to confirm a payment, and the OTP never arrives.",2,2026-10-31T21:51:58.471170
+CMP-000354,TXN-20261030-17083468,CUST-101660,BR-MKK-001,EMAIL,أرغب في معرفة موعد استحقاق القسط القادم لعملية التقسيط.,3,2026-11-03T00:38:08.822634
+CMP-000355,TXN-20261031-34775304,CUST-100839,BR-RUH-001,EMAIL,موظفو WJ Olaya Branch كانوا متعاونين جداً، شكراً لكم.,5,2026-11-04T07:17:20.027646
+CMP-000356,TXN-20261031-95601422,CUST-100113,BR-RUH-001,MOBILE_APP,My card was declined at Government e-Services even though I had enough balance. Very embarrassing. I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,1,2026-11-03T09:02:13.374197
+CMP-000357,TXN-20261031-37105252,CUST-101997,BR-RUH-001,CALL_CENTER,تم رفض بطاقتي في Najm Electronics رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-11-05T00:13:08.976660
+CMP-000358,TXN-20261101-64512896,CUST-101664,BR-MKK-001,EMAIL,بطاقة مدى لا تعمل في Qahwa House للمرة الثانية هذا الأسبوع.,2,2026-11-05T21:09:08.257064
+CMP-000359,TXN-20261101-76724554,CUST-100062,BR-MKK-001,MOBILE_APP,ظهرت عملية بمبلغ 63.41 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً. الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,1,2026-11-04T07:38:19.148715
+CMP-000360,TXN-20261102-88126124,CUST-101850,BR-JED-001,CALL_CENTER,Apple Pay stopped working after the latest app update. I was charged a cash-withdrawal fee on a normal purchase of 516.15 SAR.,3,2026-11-04T18:19:13.269856
+CMP-000361,TXN-20261102-60903425,CUST-100588,BR-JED-001,EMAIL,ظهرت عملية بمبلغ 198.69 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-11-02T16:58:01.718168
+CMP-000362,TXN-20261102-56560009,CUST-100692,BR-MED-001,EMAIL,"The issue was resolved, but it took longer than expected.",3,2026-11-04T18:03:33.987976
+CMP-000363,TXN-20261102-21154429,CUST-100329,BR-MKK-001,CALL_CENTER,موظفو WJ Aziziyah Branch كانوا متعاونين جداً، شكراً لكم.,4,2026-11-03T09:38:56.833284
+CMP-000364,TXN-20261102-30126886,CUST-100311,BR-JED-001,CALL_CENTER,تم رفض بطاقتي في Shawarma Corner رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-11-05T09:44:50.659944
+CMP-000365,TXN-20261102-88391601,CUST-100885,BR-RUH-001,EMAIL,الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,1,2026-11-06T17:27:09.525834
+CMP-000366,TXN-20261103-33648286,CUST-101843,BR-RUH-001,CALL_CENTER,بطاقة مدى لا تعمل في Fun Zone للمرة الثانية هذا الأسبوع.,2,2026-11-07T04:10:19.050274
+CMP-000367,TXN-20261103-32630998,CUST-100033,BR-MKK-001,BRANCH,انتظرت أكثر من ساعة في WJ Aziziyah Branch ولم يتم خدمتي. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,2,2026-11-04T06:35:27.281257
+CMP-000368,TXN-20261103-87130574,CUST-101455,BR-DMM-001,EMAIL,موظفو WJ Corniche Branch كانوا متعاونين جداً، شكراً لكم.,4,2026-11-08T05:56:24.871437
+CMP-000369,TXN-20261103-44368597,CUST-101729,BR-RUH-001,MOBILE_APP,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,2,2026-11-06T11:20:45.981743
+CMP-000370,TXN-20261104-72594089,CUST-100060,BR-RUH-001,CALL_CENTER,تم رفض بطاقتي في Umrah Journeys رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-11-04T20:56:53.345682
+CMP-000371,TXN-20261105-61531971,CUST-101818,BR-RUH-001,CALL_CENTER,"The issue was resolved, but it took longer than expected.",3,2026-11-07T12:45:04.695311
+CMP-000372,TXN-20261106-92843005,CUST-100820,BR-DMM-001,EMAIL,There is a transaction of 50.02 SAR on my statement that I don't recognise. Please block the card now.,2,2026-11-08T06:46:10.508305
+CMP-000373,TXN-20261106-36551510,CUST-100789,BR-JED-001,BRANCH,"The staff at WJ Tahlia Branch were very helpful, thank you.",4,2026-11-08T21:26:41.193048
+CMP-000374,TXN-20261106-55779844,CUST-101263,BR-JED-001,EMAIL,My mada card failed at Dana Fresh for the second time this week.,1,2026-11-11T12:30:30.746297
+CMP-000375,TXN-20261107-90652796,CUST-100210,BR-DMM-001,EMAIL,I'd like to know when my next instalment is due.,3,2026-11-07T11:41:32.669901
+CMP-000376,TXN-20261107-33911889,CUST-100815,BR-JED-001,BRANCH,رُفضت عملية بمبلغ 2100.0 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,1,2026-11-10T01:57:07.152396
+CMP-000377,TXN-20261107-57648050,CUST-100968,BR-JED-001,MOBILE_APP,ظهرت عملية بمبلغ 5274.36 ريال لا أعرفها في كشف حسابي، أرجو إيقاف البطاقة فوراً.,2,2026-11-12T11:57:33.136938
+CMP-000378,TXN-20261108-81201892,CUST-100862,BR-MKK-001,BRANCH,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-11-09T14:05:14.446196
+CMP-000379,TXN-20261109-42095909,CUST-101369,BR-DMM-001,MOBILE_APP,تم رفض بطاقتي في Nakheel Hypermarket رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,2,2026-11-14T04:33:02.709705
+CMP-000380,TXN-20261110-55092955,CUST-101404,BR-JED-001,CALL_CENTER,تم رفض بطاقتي في Nakheel Hypermarket رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-11-13T20:34:24.519144
+CMP-000381,TXN-20261111-23545060,CUST-101363,BR-DMM-001,MOBILE_APP,رُفضت عملية بمبلغ 340.55 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-11-12T14:00:43.165186
+CMP-000382,TXN-20261111-45109040,CUST-101834,BR-MED-001,MOBILE_APP,بطاقة مدى لا تعمل في Rimal Fashion للمرة الثانية هذا الأسبوع.,1,2026-11-15T12:33:50.527758
+CMP-000383,TXN-20261111-94497431,CUST-100940,BR-RUH-001,EMAIL,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ.,3,2026-11-15T19:04:58.801687
+CMP-000384,TXN-20261112-16737235,CUST-100285,BR-RUH-001,EMAIL,شكراً لفريق خدمة العملاء، تم حل مشكلتي بسرعة واحترافية.,4,2026-11-16T18:36:46.347149
+CMP-000385,TXN-20261112-59122531,CUST-101980,BR-JED-001,EMAIL,بطاقة مدى لا تعمل في Dana Fresh للمرة الثانية هذا الأسبوع.,2,2026-11-16T21:25:19.744928
+CMP-000386,TXN-20261114-88230891,CUST-100630,BR-JED-001,CALL_CENTER,My card was declined at WJ ATM Jeddah even though I had enough balance. Very embarrassing.,2,2026-11-15T15:39:18.595662
+CMP-000387,TXN-20261115-59220364,CUST-100343,BR-MKK-001,MOBILE_APP,رُفضت عملية بمبلغ 759.72 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-11-20T03:46:17.364877
+CMP-000388,TXN-20261116-30436329,CUST-101335,BR-RUH-001,CALL_CENTER,تم احتساب رسوم سحب نقدي على عملية شراء عادية بمبلغ 288.53 ريال. انتظرت أكثر من ساعة في WJ Olaya Branch ولم يتم خدمتي.,2,2026-11-20T16:35:15.036597
+CMP-000389,TXN-20261117-23594293,CUST-101204,BR-MED-001,BRANCH,My mada card failed at Nakheel Hypermarket for the second time this week. The credit card fees are much higher than what I was told when the card was issued.,1,2026-11-19T09:05:12.932786
+CMP-000390,TXN-20261117-93248947,CUST-100098,BR-RUH-001,CALL_CENTER,I'd like to know when my next instalment is due.,3,2026-11-17T23:21:27.643590
+CMP-000391,TXN-20261118-18478763,CUST-101369,BR-DMM-001,EMAIL,بطاقة مدى لا تعمل في Nakheel Hypermarket للمرة الثانية هذا الأسبوع.,2,2026-11-20T23:45:05.407587
+CMP-000392,TXN-20261119-88523092,CUST-101791,BR-JED-001,BRANCH,بطاقة مدى لا تعمل في WJ ATM Jeddah للمرة الثانية هذا الأسبوع. لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,2,2026-11-24T08:05:39.106085
+CMP-000393,TXN-20261119-92228948,CUST-100558,BR-MKK-001,MOBILE_APP,تم خصم مبلغ من بطاقتي لعملية لم أقم بها في Fun Zone، أريد فتح اعتراض. موظف الفرع كان غير متعاون ولم يجب على أسئلتي.,2,2026-11-23T01:51:54.238850
+CMP-000394,TXN-20261119-15172435,CUST-101858,BR-RUH-001,EMAIL,I'd like to know when my next instalment is due.,3,2026-11-24T10:00:13.757208
+CMP-000395,TXN-20261120-92659934,CUST-101490,BR-MED-001,BRANCH,تم خصم رسوم غير مفهومة من حسابي بعد عملية الشراء، أريد توضيحاً واسترداد المبلغ. رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,2,2026-11-21T11:22:26.312927
+CMP-000396,TXN-20261121-76808637,CUST-100498,BR-JED-001,EMAIL,لا أستطيع تسجيل الدخول إلى التطبيق منذ يومين.,2,2026-11-21T21:29:59.392916
+CMP-000397,TXN-20261121-28435963,CUST-100937,BR-RUH-001,BRANCH,رُفضت عملية بمبلغ 714.33 ريال بدون أي سبب واضح، أرجو حل المشكلة بسرعة.,2,2026-11-25T10:31:00.507362
+CMP-000398,TXN-20261121-43186043,CUST-100876,BR-MKK-001,MOBILE_APP,بطاقة مدى لا تعمل في Nakheel Hypermarket للمرة الثانية هذا الأسبوع.,2,2026-11-23T06:13:41.762217
+CMP-000399,TXN-20261121-73999600,CUST-101907,BR-MED-001,CALL_CENTER,The branch staff were unhelpful and didn't answer my questions. I was charged a fee I don't understand after my purchase. I want an explanation and a refund.,2,2026-11-25T14:23:06.932835
+CMP-000400,TXN-20261122-41023124,CUST-100502,BR-RUH-001,EMAIL,A payment of 59.13 SAR was declined for no clear reason. Please fix this quickly.,1,2026-11-26T19:49:40.506562
+CMP-000401,TXN-20261122-35322807,CUST-101850,BR-JED-001,BRANCH,My mada card failed at Nakheel Hypermarket for the second time this week. The credit card fees are much higher than what I was told when the card was issued.,2,2026-11-26T19:49:40.506562
+CMP-000402,TXN-20261122-18104388,CUST-101594,BR-MKK-001,BRANCH,تم رفض بطاقتي في Qahwa House رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً. الصراف الآلي في الفرع خارج الخدمة منذ أسبوع.,2,2026-11-25T08:24:05.658085
+CMP-000403,TXN-20261123-92362399,CUST-101832,BR-MED-001,MOBILE_APP,My card was charged at Dana Fresh for a purchase I never made. I want to raise a dispute. I was charged a cash-withdrawal fee on a normal purchase of 349.09 SAR.,2,2026-11-26T17:36:51.778532
+CMP-000404,TXN-20261123-85790069,CUST-100737,BR-RUH-001,MOBILE_APP,خدمة Apple Pay تعطلت بعد آخر تحديث للتطبيق. رسوم البطاقة الائتمانية مرتفعة جداً مقارنة بما تم إبلاغي به عند الإصدار.,2,2026-11-26T18:55:04.425044
+CMP-000405,TXN-20261124-14636922,CUST-100497,BR-RUH-001,EMAIL,تم رفض بطاقتي في Smart Hub رغم وجود رصيد كافٍ في حسابي. موقف محرج جداً.,1,2026-11-26T19:49:40.506562
