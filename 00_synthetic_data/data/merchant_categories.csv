@@ -1,0 +1,12 @@
+mcc_code,category_name,typical_min_sar,typical_max_sar,bnpl_eligible
+5411,Groceries,15,900,0
+5812,Restaurants & Cafes,12,450,0
+5541,Fuel,30,250,0
+5651,Fashion,60,2500,1
+5732,Electronics,150,9000,1
+4511,Travel & Airlines,300,7000,1
+5912,Pharmacy & Health,10,600,0
+4814,Telecom & Utilities,50,800,0
+9399,Government Services,20,2000,0
+7832,Entertainment,40,700,0
+6011,ATM Cash Withdrawal,100,5000,0
